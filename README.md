@@ -45,7 +45,7 @@ cd The-Librarys-Lost-Books
 ```
 
 
-2️⃣ **Clone this repository:**
+2️⃣ **Run the program:**
 ```bash
 python main.py
 ```
